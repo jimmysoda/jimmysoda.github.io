@@ -26,6 +26,14 @@ under the _Computer Visualization_ focus area and a
 [University of Central Florida](https://ucf.edu). I also attended [Valencia College](httpd://valenciacollege.edu) 
 for my [pre-major associate's degree](http://catalog.valenciacollege.edu/degrees/associateinarts/premajorsatvalencia/engineering/).
 
+Projects on GitHub
+------------------
+
+- [**facedetector**](https://github.com/jimmysoda/facedetector) [Matlab/Octave] &mdash; Principal component analysis (PCA) face recognition and detection
+- [**howto-protobuf-zlib**](https://github.com/Simverge/howto-protobuf-zlib) [C++] &mdash; Examples for Protobuf message serialization with zlib compression 
+- [**imgrectifier**](https://github.com/jimmysoda/imgrectifier) [Matlab/Octave] &mdash; A collection of functions for affine and metric rectification of images
+- [**wikiquote-tweet-awslambda**](https://github.com/jimmysoda/wikiquote-tweet-awslambda) [Python] &mdash; An AWS Lambda to tweet a random quote from wikiquote.org
+
 Why jimmysoda?
 --------------
 
